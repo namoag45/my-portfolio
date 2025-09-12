@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Naman's Portfolio",
   description: "Portfolio of Naman Agarwal",
-  keywords: ["Next.js", "React", "Suhani", "Portfolio"],
+  keywords: ["Next.js", "React", "Naman", "Portfolio"],
   icons: {
     icon: "/logoNaman.png", 
   },
