@@ -66,11 +66,18 @@ export const CaseStudies: CaseStudy[] = [
   },
   {
     id: 2,
-    title: " Counselling and Guidance Cell- Onboarding & mentorship redefined.",
-    des: "Led a 50-member team (6 associate coordinators, 44 mentors) to design and execute a month-long Orientation & Induction Programme for 600+ freshers.",
-    img: "/c_cell.png",
-    liveLink: "https://drive.google.com/file/d/1wXiAkpjuHPJS646v_Nn61yDBwOKJg5eG/view"
+    title: "ZOMATO– Performance Intelligence Dashboard for Restaurant Partners",
+    des: "Developed a Performance Intelligence Dashboard for Zomato restaurant partners, providing real-time insights, A/B testing, and competitor benchmarking. Enabled data-driven decisions that boosted partner retention by 10–12% and revenue by 8–10%.",
+    img: "zomato.png",
+    liveLink: "https://drive.google.com/file/d/198ZH-7EqjfDnyvDnlKzJBsxm6h491p9P/view"
   },
+  // {
+  //   id: 2,
+  //   title: " Counselling and Guidance Cell- Onboarding & mentorship redefined.",
+  //   des: "Led a 50-member team (6 associate coordinators, 44 mentors) to design and execute a month-long Orientation & Induction Programme for 600+ freshers.",
+  //   img: "/c_cell.png",
+  //   liveLink: "https://drive.google.com/file/d/1wXiAkpjuHPJS646v_Nn61yDBwOKJg5eG/view"
+  // },
 ];
 
 
