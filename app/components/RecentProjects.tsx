@@ -56,7 +56,8 @@ const RecentProjects: React.FC = () => {
 
         {/* Projects Grid */}
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-10"> 
+            {/* grid grid-cols-1 md:grid-cols-2 gap-10 --> for 2 in one line*/}
             {projects.map((project: Project, index: number) => (
               <motion.div
                 key={project.id}

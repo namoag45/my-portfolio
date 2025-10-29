@@ -28,14 +28,14 @@ export const projects: Project[] = [
     link: "https://github.com/namoag45/ai-trip-itinerary-generator",
     liveLink: "https://ai-trip-itinerary-generator.vercel.app/"
   },
-  {
-    id: 2,
-    title: "PG Discovery & Booking Platform for Students",
-    des: " Help students discover PGs near their college through location-based search, reducing browsing time by 70%",
-    img: "/stay-near.png",
-    iconLists: ["/icons/react.svg", "/icons/prisma.svg", "/icons/postgresql.svg"],
-    liveLink: "https://stay-near.vercel.app/"
-  },
+  // {
+  //   id: 2,
+  //   title: "PG Discovery & Booking Platform for Students",
+  //   des: " Help students discover PGs near their college through location-based search, reducing browsing time by 70%",
+  //   img: "/stay-near.png",
+  //   iconLists: ["/icons/react.svg", "/icons/prisma.svg", "/icons/postgresql.svg"],
+  //   liveLink: "https://stay-near.vercel.app/"
+  // },
   // {
   //   id: 4,
   //   title: "Portfolio Website",

@@ -129,7 +129,7 @@ const Hero = () => {
         >
 
           
-          <motion.a
+          {/* <motion.a
             href="https://github.com/namoag45"
             target="_blank"
             rel="noopener noreferrer"
@@ -137,7 +137,7 @@ const Hero = () => {
             whileHover={{ scale: 1.1 }}
           >
             <FaGithub className="text-xl" />
-          </motion.a>
+          </motion.a> */}
           <motion.a
             href="https://www.linkedin.com/in/naman-agarwal-57a519218/"
             target="_blank"
