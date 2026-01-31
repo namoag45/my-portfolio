@@ -130,6 +130,27 @@ export interface Responsibility {
 
 export const responsibilities: Responsibility[] = [
   {
+    role: "Product Analyst Intern",
+    org: "ProcMart",
+    duration: "Jan 2026 – Present",
+    details: [
+      "Drafted detailed Product Requirement Documents (PRDs) for an AI-based product and vendor recommendation tool, aligning enhancements with core business needs.",
+      "Improved marketplace efficiency by reducing SKU duplication by 12% and increasing requirement postings by KAMs by 20%, contributing to a 6% margin improvement.",
+      "Worked directly with databases and data extracts to analyze business-critical information and support product optimization initiatives."
+    ],
+  },
+
+  {
+    role: "Project Management Intern",
+    org: "Grapes Worldwide",
+    duration: "Oct 2025 – Dec 2025",
+    details: [
+      "Managed end-to-end client projects by gathering requirements, defining scope, coordinating cross-functional teams, and ensuring timely, high-quality delivery across all phases of the project lifecycle.",
+      "Led client discussions to understand business needs, translated them into actionable tasks, and aligned stakeholders with technical teams.",
+      "Tracked project execution using SDLC practices, resolved blockers, maintained documentation, and supported senior leadership with reporting and workflow optimization."
+    ],
+  },
+  {
     role: "Sponsorship and Operations Head, TEDxLNMIIT’25",
     org: "LNMIIT",
     duration: "Aug 2024 – Jan 2025",
