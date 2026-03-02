@@ -94,7 +94,7 @@ const Hero = () => {
             {/* <Highlight className="text-black dark:text-white">
               Full-Stack Developer |{" "}
             </Highlight> */}
-            As a Product Management aspirant, I specialize in bridging user needs with innovative solutions. From AI-based itinerary planning to scalable student platforms, I enjoy creating products that simplify decisions and elevate experiences.
+            As a Product Analyst at Procmart, Noida, I focus on translating user needs into impactful, scalable solutions. I work on the FFA portal—an internal system designed to help teams plan, schedule, and conduct meetings with clients—and have also contributed to building the external RFQ feature. I’m driven by creating products that streamline operations and elevate user experiences.
           </motion.h1>
         </div>
         {/* Tech Stack */}
